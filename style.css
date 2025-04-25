@@ -9,3 +9,9 @@ body{
     font-size: 1rem;/*Tamanho de fonte base(geralmente 16px)*/
     font-family: 'Montserrat';/*Fonte principal do site*/
 }
+/*Estilo do Cabeçalho*/
+
+
+header{
+    background-color: #ffffff;/* Fundo branco para o cabeçalho*/
+}
