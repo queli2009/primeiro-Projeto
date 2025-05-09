@@ -97,3 +97,31 @@ h2{
   background: url('img/flor-bottom-direita.png') bottom right no-repeat;
  background-size: 180px 180px;
 }
+
+#contato{
+    background-image: url('img/4965007.jpg');
+    background-size: cover;
+    padding: 4rem 0;
+    /*Epaçamento interno para a seção de contato*/
+}
+
+.formulario{
+    background-color: #ffffff;
+    padding: 2rem;
+    /*espaçamento interno dentro do formulário*/
+    border-radius: 10px;
+    /*Borda arredondada para o forulário*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /*Sombra suave para destacar o formulário*/
+    font-weight: bold;
+}
+
+.formulario button{
+    background-color: #cb6D43;
+    border: none;
+    font-weight: bold0;
+}
+/*chama aclasse do bootstrap para modificar a cor*/
+.fom-contro{
+    background-color: #F1EDEF;
+}
